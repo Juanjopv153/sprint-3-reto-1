@@ -1,5 +1,5 @@
 import React from 'react'
-import Sexo from '../components/Sexo';
+import Sexo from '../components/Header';
 
 function App() {
   return (
