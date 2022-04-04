@@ -16,7 +16,7 @@ display: flex;
 gap: 55px;
 .titulos{
     color: white;
-    font-family: Raleway, 'Comic Sans';
+    font-family: Raleway, 'Helvetica';
     font-weight: 400;
     font-size: 20px;
 }
